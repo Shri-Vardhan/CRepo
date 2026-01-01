@@ -7,6 +7,7 @@
  Description : C-Porgram to check whether input is a alphabet or not
  =======================================================================
  */
+ 
 #include <stdio.h>
 int main() {
     char c;
